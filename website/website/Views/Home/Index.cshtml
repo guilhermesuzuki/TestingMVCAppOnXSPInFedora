@@ -1,0 +1,27 @@
+﻿@using website.Models;
+@using System.Collections.Generic;
+@model List<Person>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+    @if (this.Model.Count() > 0) {
+    	<ul>
+	    	@foreach (var p in Model) {
+		    	<li>
+	    			<span>@p.FirstName</span>
+	    			<span>@p.MiddleName</span>
+	    			<span>@p.LastName</span>
+		    	</li>
+		    }    
+    	</ul>
+    } 
+
+</head>
+<body>
+</body>
+</html>

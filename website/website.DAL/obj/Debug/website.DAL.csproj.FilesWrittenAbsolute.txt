@@ -1,0 +1,7 @@
+/home/gsuzuki/Documents/website/website.DAL/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gsuzuki/Documents/website/website.DAL/bin/Debug/website.Models.dll
+/home/gsuzuki/Documents/website/website.DAL/bin/Debug/website.Models.dll.mdb
+/home/gsuzuki/Documents/website/website.DAL/bin/Debug/website.DAL.dll.mdb
+/home/gsuzuki/Documents/website/website.DAL/bin/Debug/website.DAL.dll
+/home/gsuzuki/Documents/website/website.DAL/obj/Debug/website.DAL.dll
+/home/gsuzuki/Documents/website/website.DAL/obj/Debug/website.DAL.dll.mdb

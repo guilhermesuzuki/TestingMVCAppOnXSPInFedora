@@ -1,0 +1,16 @@
+/home/gsuzuki/Documents/website/website/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gsuzuki/Documents/website/website/bin/website.dll.mdb
+/home/gsuzuki/Documents/website/website/bin/website.dll
+/home/gsuzuki/Documents/website/website/obj/Debug/website.dll
+/home/gsuzuki/Documents/website/website/obj/Debug/website.dll.mdb
+/home/gsuzuki/Documents/website/website/bin/Microsoft.Web.Infrastructure.dll
+/home/gsuzuki/Documents/website/website/bin/System.Web.Razor.dll
+/home/gsuzuki/Documents/website/website/bin/System.Web.Helpers.dll
+/home/gsuzuki/Documents/website/website/bin/System.Web.WebPages.dll
+/home/gsuzuki/Documents/website/website/bin/System.Web.WebPages.Deployment.dll
+/home/gsuzuki/Documents/website/website/bin/System.Web.WebPages.Razor.dll
+/home/gsuzuki/Documents/website/website/bin/System.Web.Mvc.dll
+/home/gsuzuki/Documents/website/website/bin/website.DAL.dll
+/home/gsuzuki/Documents/website/website/bin/website.DAL.dll.mdb
+/home/gsuzuki/Documents/website/website/bin/website.Models.dll
+/home/gsuzuki/Documents/website/website/bin/website.Models.dll.mdb

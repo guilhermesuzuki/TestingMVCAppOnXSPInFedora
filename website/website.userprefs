@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="website/website.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="firefox" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="website/Web.config">
+    <Files>
+      <File FileName="website/Web.config" Line="24" Column="34" />
+      <File FileName="website.DAL/PersonDAL.cs" Line="11" Column="11" />
+      <File FileName="website.Models/Person.cs" Line="24" Column="4" />
+      <File FileName="website/Controllers/HomeController.cs" Line="17" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

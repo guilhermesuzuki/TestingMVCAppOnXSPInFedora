@@ -1,0 +1,5 @@
+/home/gsuzuki/Documents/website/website.Models/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gsuzuki/Documents/website/website.Models/bin/Debug/website.Models.dll.mdb
+/home/gsuzuki/Documents/website/website.Models/bin/Debug/website.Models.dll
+/home/gsuzuki/Documents/website/website.Models/obj/Debug/website.Models.dll
+/home/gsuzuki/Documents/website/website.Models/obj/Debug/website.Models.dll.mdb
